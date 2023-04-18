@@ -21,14 +21,11 @@
     - 
 This is a normal prargraph:
  This is a code block.
-
-<PRE>
-<CODE>
+'''java
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
-  }
-}
+'''
 <CODE>
 </PRE>
 
