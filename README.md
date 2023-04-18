@@ -24,7 +24,9 @@ This is a normal prargraph:
 
 <pre>
 <code>
-public static void main(str argv[]){
+'''
+public static void main(String[] argv){
 }
+'''
 </code>
 </pre>
