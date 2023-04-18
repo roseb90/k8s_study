@@ -21,3 +21,7 @@
     - 
 This is a normal prargraph:
  This is a code block.
+
+<pre>public static void main(str argv[]){
+}
+</pre>
