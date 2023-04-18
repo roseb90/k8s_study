@@ -22,7 +22,7 @@
 This is a normal prargraph:
  This is a code block.
 
-
+<PRE>
 ```java
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -30,4 +30,5 @@ public class BootSpringBootApplication {
   }
 }
 ```
+ </PRE>
 
