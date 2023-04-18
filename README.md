@@ -18,7 +18,16 @@
 - 빨강
   - 녹색
     - 파랑 
-    - 
+
+1. 순서 필요 목록
+2. 순서 필요 목록
+  -  순서 불필요 목록
+  -  순서 불필요 목록
+- 순서 불필요 목록
+  - 대쉬(hypen()
+  * 별표(asterisks)
+  + 더하기(plus sign)
+  +   
 This is a normal prargraph:
  This is a code block.
 ```java
