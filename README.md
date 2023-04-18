@@ -23,12 +23,12 @@ This is a normal prargraph:
  This is a code block.
 
 <PRE>
-```java
+<CODE>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
 }
-```
- </PRE>
+<CODE>
+</PRE>
 
