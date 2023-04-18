@@ -34,3 +34,6 @@ public class BootSpringBootApplication {
 
 ```
 
+|값|의미|기본값|
+|---|:---:|---:|
+|static|유형(기준) 없음/배치 불가능|static|
