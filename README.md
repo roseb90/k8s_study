@@ -24,7 +24,7 @@ This is a normal prargraph:
 
 <pre>
 <code>
-"```"java
+("```")java
 public class BootSpringBootApplication {
  public static void main(String[] args){
  }
