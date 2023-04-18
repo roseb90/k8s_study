@@ -25,7 +25,9 @@ This is a normal prargraph:
 <pre>
 <code>
 '''java
-public static void main(String[] argv){
+public class BootSpringBootApplication {
+ public static void main(String[] args){
+ }
 }
 '''
 </code>
